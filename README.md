@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is V1 of my personal portfolio Project. I plan on further developing and making additions in the future once I've completed projects.
 <!--
 **iksmith/iksmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
